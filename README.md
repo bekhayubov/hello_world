@@ -1,2 +1,5 @@
 # hello_world
-this is the my first project in GItHub
+
+Hello!
+
+My name is Behruz! :) 
